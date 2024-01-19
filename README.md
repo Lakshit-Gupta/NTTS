@@ -1,6 +1,7 @@
 # NTTS
 NEWS TEXT TO SPEECH
-An interface to get your news and translated into speech 
+An interface to get your news and translated into speech
+run pip pip3 install requirements.py
 Pre Requist :- run following commands 
 "pip install newsapi-python"  and 
 "pip install pywin32"
